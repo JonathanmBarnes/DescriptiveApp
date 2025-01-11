@@ -16,6 +16,7 @@ library(gtExtras)
 library(tidyverse)
 library(knitr)
 library(svglite)
+library(haven)
 source("Cleaning.R")
 source("gt_summary_table.R")
 
